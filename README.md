@@ -15,7 +15,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 
 | Day   | Topic/Category         | Problem Name             | LeetCode Link |
 |--------|------------------------|---------------------------|----------------|
-| Day 1  | Basic SELECT           | Revisited SELECT          | [Link](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=database) |
+| Day 1  | Join Basics            | Combine Two tables        | [Link](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=database) |
 | Day 2  | –                      | To be updated             | – |
 | Day 3  | –                      | To be updated             | – |
 | Day 4  | –                      | To be updated             | – |
