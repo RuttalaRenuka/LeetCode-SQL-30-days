@@ -18,7 +18,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 1  | Join Basics            | Combine Two tables        | [Link](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=database) |
 | Day 2  | join basics            |highest salary      | https://leetcode.com/problems/employees-earning-more-than-their-managers/ /|
 | Day 3  | groupby | duplicate rows | https://leetcode.com/problems/duplicate-emails/description/|
-| Day 4  | –                      | To be updated             | – |
+| Day 4  | In operator |customers who have not order | https://leetcode.com/problems/customers-who-never-order/description/|
 | Day 5  | –                      | To be updated             | – |
 | Day 6  | –                      | To be updated             | – |
 | Day 7  | –                      | To be updated             | – |
