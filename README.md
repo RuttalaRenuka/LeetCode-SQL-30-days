@@ -21,7 +21,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 4  | In operator |customers who have not order | https://leetcode.com/problems/customers-who-never-order/description/|
 | Day 5  | merge   | merging tables | https://leetcode.com/problems/triangle-judgement/|
 | Day 6  |group by| having more matched actors|https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/
-| Day 7  | –                      | To be updated             | – |
+| Day 7  | basic sql|Game play analysis| https://leetcode.com/problems/game-play-analysis-i/description/|
 | Day 8  | –                      | To be updated             | – |
 | Day 9  | –                      | To be updated             | – |
 | Day 10 | –                      | To be updated             | – |
