@@ -22,7 +22,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 5  | merge   | merging tables | https://leetcode.com/problems/triangle-judgement/|
 | Day 6  |group by| having more matched actors|https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/
 | Day 7  | basic sql|Game play analysis| https://leetcode.com/problems/game-play-analysis-i/description/|
-| Day 8  | –                      | To be updated             | – |
+| Day 8  |joins|employeesbonus|https://leetcode.com/problems/employee-bonus/description/|
 | Day 9  | –                      | To be updated             | – |
 | Day 10 | –                      | To be updated             | – |
 | Day 11 | –                      | To be updated             | – |
