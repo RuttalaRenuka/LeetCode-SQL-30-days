@@ -24,7 +24,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 7  | basic sql|Game play analysis| https://leetcode.com/problems/game-play-analysis-i/description/|
 | Day 8  |joins|employeesbonus|https://leetcode.com/problems/employee-bonus/description/|
 | Day 9  | having  | class with least students  |https://leetcode.com/problems/classes-with-at-least-5-students/|
-| Day 10 | –                      | To be updated             | – |
+| Day 10 |  Human traffic stadiun                 | using group ,order  |https://leetcode.com/problems/human-traffic-of-stadium/description/|
 | Day 11 | –                      | To be updated             | – |
 | Day 12 | –                      | To be updated             | – |
 | Day 13 | –                      | To be updated             | – |
