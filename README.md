@@ -26,7 +26,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 9  | having  | class with least students  |https://leetcode.com/problems/classes-with-at-least-5-students/|
 | Day 10 |  Human traffic stadiun                 | using group ,order  |https://leetcode.com/problems/human-traffic-of-stadium/description/|
 | Day 11 | orders| joins and groping  | https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/|
-| Day 12 | –                      | To be updated             | – |
+| Day 12 | percentage |arthimetic |https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/ |
 | Day 13 | –                      | To be updated             | – |
 | Day 14 | –                      | To be updated             | – |
 | Day 15 | –                      | To be updated             | – |
