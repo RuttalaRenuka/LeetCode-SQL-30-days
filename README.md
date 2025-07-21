@@ -27,8 +27,8 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 10 |  Human traffic stadiun                 | using group ,order  |https://leetcode.com/problems/human-traffic-of-stadium/description/|
 | Day 11 | orders| joins and groping  | https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/|
 | Day 12 | percentage |arthimetic |https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/ |
-| Day 13 | –                      | To be updated             | – |
-| Day 14 | –                      | To be updated             | – |
+| Day 13 | subquery | Biggest single number | https://leetcode.com/problems/biggest-single-number/description/|
+| Day 14 | joins| project employess| https://leetcode.com/problems/project-employees-i/description/|
 | Day 15 | –                      | To be updated             | – |
 | Day 16 | –                      | To be updated             | – |
 | Day 17 | –                      | To be updated             | – |
