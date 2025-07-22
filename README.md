@@ -30,7 +30,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 13 | subquery | Biggest single number | https://leetcode.com/problems/biggest-single-number/description/|
 | Day 14 | joins| project employess| https://leetcode.com/problems/project-employees-i/description/|
 | Day 15 | joins  | product sales | https://leetcode.com/problems/product-sales-analysis-i/|
-| Day 16 | –                      | To be updated             | – |
+| Day 16 | group by | number of unique subjects| https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/|
 | Day 17 | –                      | To be updated             | – |
 | Day 18 | –                      | To be updated             | – |
 | Day 19 | –                      | To be updated             | – |
