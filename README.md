@@ -32,7 +32,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 15 | joins  | product sales | https://leetcode.com/problems/product-sales-analysis-i/|
 | Day 16 | group by | number of unique subjects| https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/|
 | Day 17 | Regexp | valid email check ✅ | https://leetcode.com/problems/find-valid-emails/ |
-| Day 18 | –                      | To be updated             | – |
+| Day 18 |cases |months problem           |https://leetcode.com/problems/reformat-department-table/description/|
 | Day 19 | –                      | To be updated             | – |
 | Day 20 | –                      | To be updated             | – |
 | Day 21 | –                      | To be updated             | – |
