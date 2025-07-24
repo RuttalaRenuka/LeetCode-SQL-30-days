@@ -33,7 +33,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 16 | group by | number of unique subjects| https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/|
 | Day 17 | Regexp | valid email check ✅ | https://leetcode.com/problems/find-valid-emails/ |
 | Day 18 |cases |months problem           |https://leetcode.com/problems/reformat-department-table/description/|
-| Day 19 | –                      | To be updated             | – |
+| Day 19 | group by|group sold products | https://leetcode.com/problems/group-sold-products-by-the-date/description/ |
 | Day 20 | –                      | To be updated             | – |
 | Day 21 | –                      | To be updated             | – |
 | Day 22 | –                      | To be updated             | – |
