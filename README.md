@@ -34,7 +34,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 17 | Regexp | valid email check ✅ | https://leetcode.com/problems/find-valid-emails/ |
 | Day 18 |cases |months problem           |https://leetcode.com/problems/reformat-department-table/description/|
 | Day 19 | group by|group sold products | https://leetcode.com/problems/group-sold-products-by-the-date/description/ |
-| Day 20 | –                      | To be updated             | – |
+| Day 20 | subquery | finding students who improved | https://leetcode.com/problems/find-students-who-improved/description/ |
 | Day 21 | –                      | To be updated             | – |
 | Day 22 | –                      | To be updated             | – |
 | Day 23 | –                      | To be updated             | – |
