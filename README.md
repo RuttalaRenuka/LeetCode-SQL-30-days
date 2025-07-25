@@ -35,7 +35,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 18 |cases |months problem           |https://leetcode.com/problems/reformat-department-table/description/|
 | Day 19 | group by|group sold products | https://leetcode.com/problems/group-sold-products-by-the-date/description/ |
 | Day 20 | subquery | finding students who improved | https://leetcode.com/problems/find-students-who-improved/description/ |
-| Day 21 | –                      | To be updated             | – |
+| Day 21 | joins , group by | student sibjects | https://leetcode.com/problems/students-and-examinations/description/ |
 | Day 22 | –                      | To be updated             | – |
 | Day 23 | –                      | To be updated             | – |
 | Day 24 | –                      | To be updated             | – |
