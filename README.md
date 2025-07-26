@@ -36,7 +36,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 19 | group by|group sold products | https://leetcode.com/problems/group-sold-products-by-the-date/description/ |
 | Day 20 | subquery | finding students who improved | https://leetcode.com/problems/find-students-who-improved/description/ |
 | Day 21 | joins , group by | student sibjects | https://leetcode.com/problems/students-and-examinations/description/ |
-| Day 22 | –                      | To be updated             | – |
+| Day 22 | round function| subscription analyses | https://leetcode.com/problems/analyze-subscription-conversion/description/|
 | Day 23 | –                      | To be updated             | – |
 | Day 24 | –                      | To be updated             | – |
 | Day 25 | –                      | To be updated             | – |
