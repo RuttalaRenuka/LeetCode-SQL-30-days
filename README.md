@@ -40,7 +40,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 23 | joins  | find books with no null values|https://leetcode.com/problems/find-books-with-no-available-copies/description/|
 | Day 24 |group  | customers who bought all products|https://leetcode.com/problems/customers-who-bought-all-products/description/|
 | Day 25 |all cluases|last person to fit in bu|    https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/|
-| Day 26 | –                      | To be updated             | – |
+| Day 26 | functions |  product sales 111 |https://leetcode.com/problems/product-sales-analysis-iii/description/ |
 | Day 27 | –                      | To be updated             | – |
 | Day 28 | –                      | To be updated             | – |
 | Day 29 | –                      | To be updated             | – |
