@@ -39,7 +39,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 22 | round function| subscription analyses | https://leetcode.com/problems/analyze-subscription-conversion/description/|
 | Day 23 | joins  | find books with no null values|https://leetcode.com/problems/find-books-with-no-available-copies/description/|
 | Day 24 |group  | customers who bought all products|https://leetcode.com/problems/customers-who-bought-all-products/description/|
-| Day 25 | –                      | To be updated             | – |
+| Day 25 |all cluases |last person to fit in bus      https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/|
 | Day 26 | –                      | To be updated             | – |
 | Day 27 | –                      | To be updated             | – |
 | Day 28 | –                      | To be updated             | – |
