@@ -44,8 +44,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 27 | –                      | To be updated             | – |
 | Day 28 | –                      | To be updated             | – |
 | Day 29 | –                      | To be updated             | – |
-| Day 30 | –                      | To be updated             | – |
-
+| Day 30 |all combinations|user activity for past 30 days|https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/|
 ---
 
 ## 🛠 How to Use
