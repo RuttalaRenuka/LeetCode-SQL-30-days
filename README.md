@@ -43,7 +43,7 @@ Welcome to my journey of solving SQL problems on LeetCode for 30 days!
 | Day 26 | functions |  product sales 111 |https://leetcode.com/problems/product-sales-analysis-iii/description/ |
 | Day 27 | transactions| monthly transactions |  |https://leetcode.com/problems/monthly-transactions-i/description/
 | Day 28 |case| capital gainloss| https://leetcode.com/problems/capital-gainloss/description/|
-| Day 29 | |c| |
+| Day 29 |joins |average selling price|https://leetcode.com/problems/average-selling-price/solutions/|
 | Day 30 |all combinations|user activity for past 30 days|https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/|
 ---
 
